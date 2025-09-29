@@ -1,2 +1,3 @@
-#create docker image
- docker build -t mysql .
+#Create docker image
+  docker build -t mysql.
+
